@@ -106,9 +106,3 @@ streamlit run app.py
 
 >Enhance UI with advanced filters (price range, category)
 
-👩‍💻 Author
-
-Developed by [Your Name]
-
-Do you want me to also create a **`requirements.txt` file** for this project so it’s ready to run?
-
