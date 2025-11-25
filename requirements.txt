@@ -2,4 +2,8 @@ streamlit
 pandas
 scikit-learn
 fuzzywuzzy
+<<<<<<< HEAD
 python-Levenshtein
+=======
+python-Levenshtein
+>>>>>>> da5ee82 (recommender app)
